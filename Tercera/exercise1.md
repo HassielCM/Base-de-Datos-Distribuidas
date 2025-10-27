@@ -40,6 +40,7 @@ Consultas
 ```
    #### Salida
    TODO listado de atributos y tuplas
+   (imagenes/sentencia1.png)
    
 3. Listado de vehículos cuyo año de inicio de operación sea menor o igual a 2023, incluye los datos de marca, modelo y kilometraje.
    #### Solución
