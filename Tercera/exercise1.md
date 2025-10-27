@@ -4,7 +4,7 @@ _______________________________
 
 Instrucciones. De acuerdo con la siguiente tabla, atributos y datos construye la sentencias SQL que resuelva la consulta y presenta el resultado.
 
-Tabla *Automovil*.
+Tabla *automovil*.
 
 | idAutomovil | marca | modelo | anio | kilometraje | municipio | pasajero | placa |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
