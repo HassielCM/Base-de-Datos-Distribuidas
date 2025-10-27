@@ -44,7 +44,7 @@ Consultas
    #### Salida
    TODO listado de atributos y tuplas
    
-   ![1](imagenes/sentencia1.png)
+   ![2](imagenes/sentencia2.png)
    
    
 3. Listado de vehículos cuyo año de inicio de operación sea menor o igual a 2023, incluye los datos de marca, modelo y kilometraje.
@@ -57,6 +57,9 @@ Consultas
 ```
    #### Salida
    TODO listado de atributos y tuplas
+      
+   ![3](imagenes/sentencia3.png)
+   
    
 4. Listado de vehículos que el kilometraje sea mayor a 5000 y menor a 65000, incluye los datos de modelo, anio y kilometraje.
    #### Solución
@@ -68,6 +71,9 @@ Consultas
 ```
    #### Salida
    TODO listado de atributos y tuplas
+      
+   ![4](imagenes/sentencia4.png)
+   
 
 5. Listado de vehículos que corresponde verificación en septiembre-octubre, incluye los datos de marca, municipio y placa.
    #### Solución
@@ -79,3 +85,6 @@ Consultas
 ```
    #### Salida
    TODO listado de atributos y tuplas
+      
+   ![5](imagenes/sentencia5.png)
+   
